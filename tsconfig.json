@@ -12,7 +12,7 @@
             "@types",
             "./node_modules/@types"
         ],
-        "experimentalDecorators": true, // 🔥 bắt buộc
+        "experimentalDecorators": true, 
         "emitDecoratorMetadata": true
     },
     "include": [
