@@ -1,0 +1,23 @@
+{
+  "name": "crud-server",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nodemon src/problem5.ts",
+    "build": "tsc",
+    "start": "node dist/problem5.js"
+  },
+  "dependencies": {
+    "dotenv-safe": "^9.1.0",
+    "express": "^4.21.2",
+    "pg": "^8.11.0",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.19"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.0",
+    "nodemon": "^2.0.10"
+  }
+}
