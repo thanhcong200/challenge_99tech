@@ -86,7 +86,10 @@ It supports:
 ## Sequence diagram
 
 ## Flow Diagram
+**Increase Score for user**
 ![Increase Score for user](./docs/inc_score.png)
+
+**Get top 10 user score**
 ![Get top 10 user score](./docs/top_score.png)
 
 
