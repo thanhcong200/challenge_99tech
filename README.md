@@ -1,3 +1,9 @@
+
+## 📦 Requirements
+- [Node.js](https://nodejs.org/) v18+
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+---
 # PROBLEM 4
 ``` bash
 git clone https://github.com/thanhcong200/challenge_99tech.git
@@ -20,13 +26,6 @@ Supports pagination, filtering, and soft delete. Fully dockerized for easy setup
 - Soft delete (`is_delete`)
 - Centralized error handling with JSON response
 - Run with Docker or locally
-
----
-
-## 📦 Requirements
-- [Node.js](https://nodejs.org/) v18+
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
 
 ---
 
