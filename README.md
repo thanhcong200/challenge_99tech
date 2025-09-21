@@ -2,7 +2,7 @@
 ``` bash
 git clone https://github.com/thanhcong200/challenge_99tech.git
 cd challenge_99tech 
-node ./src/propblem4.ts
+node ./src/problem4.ts
 ```
 
 # PROBLEM 5
